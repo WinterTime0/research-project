@@ -1,0 +1,253 @@
+.navbar-toggler-icon {
+    background-image: url("img/1a0332eae81fffc95b2758d1a9037fb86af964f3.jpg") !important;
+ }
+
+ .text-center {
+    background-color: black; 
+ }
+
+
+p {
+   font-size: 1.25rem; 
+   line-height: 1.8; 
+   font-weight: 300; 
+   color: #fff; 
+   margin-bottom: 20px; 
+   letter-spacing: 0.5px; 
+   max-width: 800px; 
+   margin-left: auto;
+   margin-right: auto; 
+   padding: 10px 0; 
+   text-align: center;
+}
+
+body {
+   font-family: 'Arial', sans-serif;
+   background-image: url('https://cdn.steamstatic.com/steamcommunity/public/images/items/312280/1a0332eae81fffc95b2758d1a9037fb86af964f3.jpg'); 
+   color: #333;
+}
+
+.navbar {
+   background-color: #333; 
+}
+
+.navbar .navbar-brand {
+   font-family: 'Georgia', serif;
+   font-weight: bold;
+   font-size: 1.8rem;
+   color: #fff;
+}
+
+.navbar-nav .nav-link {
+   color: #fff;
+   font-size: 1.1rem;
+   padding: 10px 15px;
+}
+
+.text-center {
+   text-align: center !important;
+}
+
+.navbar-nav .nav-link:hover {
+   background-color: #444;
+   border-radius: 5px;
+}
+
+.px-4.py-5 {
+   background-image: url('https://cdn.steamstatic.com/steamcommunity/public/images/items/312280/1a0332eae81fffc95b2758d1a9037fb86af964f3.jpg');
+   color: #fff;
+   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.px-4.py-5 h1 {
+   font-family: 'Georgia', serif;
+   font-size: 3.5rem;
+   font-weight: bold;
+}
+
+.px-4.py-5 p {
+   font-size: 1.25rem;
+}
+
+.btn-primary {
+   background-color: #333;
+   border: 2px solid #fff;
+   color: #fff;
+   font-size: 1.2rem;
+   padding: 15px 30px;
+   border-radius: 5px;
+}
+
+.btn-primary:hover {
+   background-color: #fff;
+   color: #333;
+   border: 2px solid #333;
+}
+
+.d-grid .btn-lg {
+   font-weight: bold;
+}
+
+.row {
+   display: flex;
+   justify-content: center;
+   gap: 20px;
+}
+
+.col-sm-4 {
+   background-color: #fff;
+   border: 2px solid #ccc;
+   padding: 20px;
+   border-radius: 10px;
+   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.col-sm-4 img {
+   max-width: 100%;
+   border-radius: 50%;
+   border: 3px solid #333;
+}
+
+h5 {
+   font-size: 1.5rem;
+   font-weight: bold;
+   margin-top: 15px;
+   color: rgba(255, 255, 255, 0.75);
+}
+
+p.lead {
+   font-size: 1.25rem; 
+   line-height: 1.8; 
+   font-weight: 300; 
+   color: #495057; 
+   margin-bottom: 20px; 
+   letter-spacing: 0.5px; 
+   max-width: 800px; 
+   margin-left: auto;
+   margin-right: auto; 
+   padding: 10px 0; 
+   text-align: center; 
+}
+
+ul {
+   list-style-type: none;
+   padding-left: 0;
+   font-size: 1.1rem;
+   color: #333;
+}
+
+ul li {
+   margin-bottom: 15px;
+   padding-left: 25px;
+   position: relative;
+}
+
+ul li::before {
+   content: '\2022';
+   font-size: 1.8rem;
+   position: absolute;
+   left: 0;
+   top: 0;
+   color: #333;
+}
+
+.container {
+   margin-top: 50px;
+}
+
+.container.text-center {
+   background-color: #fff;
+   padding: 30px;
+   border-radius: 10px;
+   border: 3px solid #ccc;
+}
+
+.container.text-center-2 {
+   background-color: #fff;
+   padding: 40px;
+   border-radius: 10px;
+   border: 3px solid #ccc;
+   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.container.text-center-2 h1 {
+   font-size: 2.5rem;
+   font-weight: bold;
+   color: #333;
+   margin-bottom: 30px;
+}
+
+footer {
+   background-color: #333;
+   color: #fff;
+   padding: 15px 0;
+   text-align: center;
+}
+
+.img-float {
+   float: right;
+   margin-left: 20px; 
+   margin-bottom: 20px; 
+   height: 400px;
+}
+
+.img-float-2 {
+   float: right;
+   margin-left: 20px; 
+   margin-bottom: 20px; 
+   height: 600px;
+}
+
+.py-5 {
+   padding-top: 3rem !important;
+   padding-bottom: 3rem !important;
+ }
+
+ .bg-dark-2 {
+   width: 100%;
+   height: 200px;
+
+ }
+
+ .center-img {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 30px;
+   width: 50%;
+   border-radius: 40px;
+   border: solid #fff 7px;
+ }
+
+.center-img-2 {
+   display: block;
+   width: 20px;
+   float: right;
+}
+
+video {
+   display: block;
+   margin: 0 auto;
+}
+
+ .video iframe {
+   width: 100%;
+   max-width: 700px;
+   height: 492px;
+   width: 1200px;
+   align-items: center;
+ }
+
+ iframe {
+   border-radius: 40px;
+   border: solid rgb(0, 0, 0) 15px;
+ }
+
+ footer {
+   margin-top: 30px;
+ }
+
+ .footer-text {
+   display: block;
+   margin: 0 auto;
+ }
