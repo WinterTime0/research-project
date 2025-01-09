@@ -6,7 +6,6 @@
     background-color: black; 
  }
 
-
 p {
    font-size: 1.25rem; 
    line-height: 1.8; 
@@ -94,6 +93,15 @@ body {
    gap: 20px;
 }
 
+h1 {
+   color: #fff;
+   font-weight: 40;
+}
+
+.text-3 {
+   color: #fff;
+}
+
 .col-sm-4 {
    background-color: #fff;
    border: 2px solid #ccc;
@@ -119,7 +127,7 @@ p.lead {
    font-size: 1.25rem; 
    line-height: 1.8; 
    font-weight: 300; 
-   color: #495057; 
+   color: #fff; 
    margin-bottom: 20px; 
    letter-spacing: 0.5px; 
    max-width: 800px; 
@@ -250,4 +258,12 @@ video {
  .footer-text {
    display: block;
    margin: 0 auto;
+ }
+
+ .green-bg {
+   background-color: #738276;
+ }
+
+ .black-text {
+   color: black;
  }
